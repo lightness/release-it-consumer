@@ -23,6 +23,9 @@
           {}
         ]
       }
+    },
+    "../release-it-slack-notification-plugin/index.js": {
+      "prop": "value"
     }
   }
 }
