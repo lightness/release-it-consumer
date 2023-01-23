@@ -1,5 +1,18 @@
 
 
+### [1.0.3](https://github.com/lightness/release-it-consumer/compare/1.0.2...1.0.3) (2023-01-23)
+
+
+### Features
+
+* add release task ([ba27a58](https://github.com/lightness/release-it-consumer/commit/ba27a583b36b98f02a5ef634d1857627d840ee39))
+* provide slack message title ([56b2f47](https://github.com/lightness/release-it-consumer/commit/56b2f474b82640beeecd176c15b730244f38b7ef))
+
+
+### Bug Fixes
+
+* some change ([47b0c4e](https://github.com/lightness/release-it-consumer/commit/47b0c4ebf6b02fdb1217caba337d6ca689458f78))
+
 ### [1.0.2](https://github.com/lightness/release-it-consumer/compare/1.0.1...1.0.2) (2023-01-21)
 
 
