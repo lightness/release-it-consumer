@@ -24,7 +24,7 @@
         ]
       }
     },
-    "../release-it-slack-notification-plugin/index.js": {
+    "@lightness/release-it-slack-notification-plugin": {
       "slackMessageTitle": "release-it-consumer"
     }
   }
