@@ -1,5 +1,12 @@
 
 
+### [1.0.5](https://github.com/lightness/release-it-consumer/compare/1.0.4...1.0.5) (2023-01-23)
+
+
+### Features
+
+* upgrade @lightness/release-it-slack-notification-plugin ([55972fa](https://github.com/lightness/release-it-consumer/commit/55972fa52345b18cff66a190168ac548225ee020))
+
 ### [1.0.4](https://github.com/lightness/release-it-consumer/compare/1.0.3...1.0.4) (2023-01-23)
 
 
