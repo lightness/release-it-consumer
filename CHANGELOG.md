@@ -1,5 +1,12 @@
 
 
+### [1.0.6](https://github.com/lightness/release-it-consumer/compare/1.0.5...1.0.6) (2023-01-30)
+
+
+### Features
+
+* update plugin ([99e72ff](https://github.com/lightness/release-it-consumer/commit/99e72ff24a64f85e4283040be64b7d65f0b1756d))
+
 ### [1.0.5](https://github.com/lightness/release-it-consumer/compare/1.0.4...1.0.5) (2023-01-23)
 
 
