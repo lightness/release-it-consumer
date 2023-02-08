@@ -1,5 +1,12 @@
 
 
+### [1.0.7](https://github.com/lightness/release-it-consumer/compare/1.0.6...1.0.7) (2023-02-08)
+
+
+### Features
+
+* update plugin, set username and icon emoji ([23d3b83](https://github.com/lightness/release-it-consumer/commit/23d3b83d0673a5ec52d3b6e19064442df308e5a1))
+
 ### [1.0.6](https://github.com/lightness/release-it-consumer/compare/1.0.5...1.0.6) (2023-01-30)
 
 
