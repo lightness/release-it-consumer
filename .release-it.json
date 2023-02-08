@@ -25,7 +25,9 @@
       }
     },
     "@lightness/release-it-slack-notification-plugin": {
-      "slackMessageTitle": "release-it-consumer"
+      "slackMessageTitle": "release-it-consumer",
+      "slackUsername": "Release BOT",
+      "slackIconEmoji": ":rocket:"
     }
   }
 }
