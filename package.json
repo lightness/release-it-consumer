@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "export $(grep -v '^#' .env | xargs) && release-it",
+    "release:ci": "export $(grep -v '^#' .env | xargs) && release-it --ci",
     "release:only-version": "export $(grep -v '^#' .env | xargs) && release-it --only-version"
   },
   "author": "",
