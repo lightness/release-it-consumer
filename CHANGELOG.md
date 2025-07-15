@@ -1,5 +1,7 @@
 
 
+### [1.0.9](https://github.com/lightness/release-it-consumer/compare/1.0.8...1.0.9) (2025-07-15)
+
 ### [1.0.8](https://github.com/lightness/release-it-consumer/compare/1.0.7...1.0.8) (2025-07-15)
 
 
