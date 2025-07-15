@@ -1,5 +1,12 @@
 
 
+### [1.0.11](https://github.com/lightness/release-it-consumer/compare/1.0.10...1.0.11) (2025-07-15)
+
+
+### Features
+
+* **temp:** some changes ([a2c99b4](https://github.com/lightness/release-it-consumer/commit/a2c99b48c8499870f214a97a375f5174cdff3d77))
+
 ### [1.0.10](https://github.com/lightness/release-it-consumer/compare/1.0.9...1.0.10) (2025-07-15)
 
 ### [1.0.9](https://github.com/lightness/release-it-consumer/compare/1.0.8...1.0.9) (2025-07-15)
