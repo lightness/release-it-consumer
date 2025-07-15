@@ -31,7 +31,8 @@
       "mode": "bitbucket-PR-notification",
       "slackUser": {
         "Ulad": "U04KUUPCALV"
-      }
+      },
+      "destinationBranch": "master"
     }
   }
 }
