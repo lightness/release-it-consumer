@@ -1,5 +1,60 @@
 
 
+### [1.0.35](https://github.com/lightness/release-it-consumer/compare/1.0.34...1.0.35) (2025-07-23)
+
+
+### Features
+
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([5d96b0f](https://github.com/lightness/release-it-consumer/commit/5d96b0faa04ee7f88d285775c9388bf90c06f1f8))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([c81b106](https://github.com/lightness/release-it-consumer/commit/c81b106eec332310642f9afc8454e6ba480c3b1e))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([0f6ab46](https://github.com/lightness/release-it-consumer/commit/0f6ab46950b7fae843efd545e8ceac7c636020f2))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([44cb6b8](https://github.com/lightness/release-it-consumer/commit/44cb6b823981800733e6486f397c41d83070d883))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([5086ffd](https://github.com/lightness/release-it-consumer/commit/5086ffd907a87b30659885821673de891192fd15))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([b3a7067](https://github.com/lightness/release-it-consumer/commit/b3a70672f927ce25c57a116c378022c7c86ce23a))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([07dd3ce](https://github.com/lightness/release-it-consumer/commit/07dd3ce2c6f5278f2d14861817917dff7c49aafd))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([bcfb947](https://github.com/lightness/release-it-consumer/commit/bcfb94704440fa12da08274e32e7b07d66cd96e8))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([9e4c236](https://github.com/lightness/release-it-consumer/commit/9e4c236ad812386be4b5db5bbadb759eae079f14))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([fb720d9](https://github.com/lightness/release-it-consumer/commit/fb720d978d1f91bdc6c339900a834e388b85e04b))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([570dc58](https://github.com/lightness/release-it-consumer/commit/570dc586426f8507ff1da1654cbb40432fdf8317))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([0f8ee09](https://github.com/lightness/release-it-consumer/commit/0f8ee0923fba64d73bd88c2bb55bf7d29abe1464))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([468fb0d](https://github.com/lightness/release-it-consumer/commit/468fb0de7c1137e8df3be33548d3e04504fbe633))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([7c3a490](https://github.com/lightness/release-it-consumer/commit/7c3a490924f0b79fb12ca7898a9add568735c008))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([fb5dbc0](https://github.com/lightness/release-it-consumer/commit/fb5dbc0918ff07cb52e8b75eae8e67b53d7b52c2))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([8f4894b](https://github.com/lightness/release-it-consumer/commit/8f4894b925d835bf0a33811c878cc9fc44a38ad0))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([9134d86](https://github.com/lightness/release-it-consumer/commit/9134d8640ffad55488db6cf00e92527be8d4d6a8))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([e2361f3](https://github.com/lightness/release-it-consumer/commit/e2361f368ea43caa47f51068daab7a158bda4411))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([4a566fc](https://github.com/lightness/release-it-consumer/commit/4a566fc2c568b13d4ac249698cae45112da09da7))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([6c787c4](https://github.com/lightness/release-it-consumer/commit/6c787c4207f1f92183a811088f160c9d7c8a47a1))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([88c4837](https://github.com/lightness/release-it-consumer/commit/88c483750e62ec46f81e2bf7995ff17dfdde2915))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([eff82a2](https://github.com/lightness/release-it-consumer/commit/eff82a296bfefd5f20aa8af0791b6305c319e31a))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([e834084](https://github.com/lightness/release-it-consumer/commit/e834084e35ea0ffcd4d3fbab1c55848a085ef966))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([65b9be3](https://github.com/lightness/release-it-consumer/commit/65b9be389fc578ec5587017e1be7081c6c3bbad9))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([cb1d904](https://github.com/lightness/release-it-consumer/commit/cb1d904a1edbe88a75e394b13e59f7d7b62857c0))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([45baa14](https://github.com/lightness/release-it-consumer/commit/45baa14e089d80e4e188c7ac0aed296419ae862e))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([a0090a9](https://github.com/lightness/release-it-consumer/commit/a0090a96c2ffb5a1c590379ab3d0cea9e5f198df))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([c94bc33](https://github.com/lightness/release-it-consumer/commit/c94bc333c85048660e68dda4d8a9e7790bc9f5b3))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([9c5efde](https://github.com/lightness/release-it-consumer/commit/9c5efdebc2a6cc000179161a8bd88d835777d784))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([65a3fc4](https://github.com/lightness/release-it-consumer/commit/65a3fc44a764cc104305514a9b0d647514fe72ed))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([3e12e0a](https://github.com/lightness/release-it-consumer/commit/3e12e0a1d6f335f7237632f4b0a97e3f3ed2a16a))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([932b1c8](https://github.com/lightness/release-it-consumer/commit/932b1c84657b3cc4cde4d655a58fe54ff431b922))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([c108705](https://github.com/lightness/release-it-consumer/commit/c108705485b996151b905a2a10a0a0ddf22509ff))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([3f7eb47](https://github.com/lightness/release-it-consumer/commit/3f7eb472dde5f7a4f80848f108003e99e570963d))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([9e40c5b](https://github.com/lightness/release-it-consumer/commit/9e40c5bf005a318a2b0701b29924ec0218322211))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([a15dc17](https://github.com/lightness/release-it-consumer/commit/a15dc17b7fff5d7d83f110b240375ab4563346f2))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([70bf8f9](https://github.com/lightness/release-it-consumer/commit/70bf8f9348354334654541912923f1d504575382))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([df79372](https://github.com/lightness/release-it-consumer/commit/df793722371dbef17cfb1b7195dfd1c22a4713d6))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([0173d53](https://github.com/lightness/release-it-consumer/commit/0173d53391596157adbbb0d55d6e78d2fcaab512))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([04445c2](https://github.com/lightness/release-it-consumer/commit/04445c2a31d7d6211449345dd942ed2a54555ea0))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([71cca47](https://github.com/lightness/release-it-consumer/commit/71cca473573dbe3706f63fe2703d10aeeb62b4e6))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([a08ed1c](https://github.com/lightness/release-it-consumer/commit/a08ed1c75918a9aa11ef4f69af24bbba78bc6bc1))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([3dcb3b2](https://github.com/lightness/release-it-consumer/commit/3dcb3b2fac9c258e0e67bc24696f6fb942af2bec))
+* **XXX-111:** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ([5528985](https://github.com/lightness/release-it-consumer/commit/55289854f2918e4c517406c124d180b69cd32c2b))
+
+
+### Bug Fixes
+
+* **test:** confirmation mode ([34645d7](https://github.com/lightness/release-it-consumer/commit/34645d787a43f0f7929374a01566a6648477115d))
+
 ### [1.0.34](https://github.com/lightness/release-it-consumer/compare/1.0.33...1.0.34) (2025-07-23)
 
 
