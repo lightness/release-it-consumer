@@ -28,7 +28,7 @@
       "slackMessageTitle": "release-it-consumer",
       "slackUsername": "Release BOT",
       "slackIconEmoji": ":rocket:",
-      "mode": "confirmation",
+      "mode": "bitbucket-PR-notification",
       "slackUser": {
         "Ulad": "U04KUUPCALV"
       },
